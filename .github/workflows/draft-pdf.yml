@@ -1,7 +1,5 @@
-on:
-  push:
-    paths:
-      - joss/**
+name: Draft PDF
+on: [push]
 
 jobs:
   paper:
