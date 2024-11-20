@@ -68,7 +68,7 @@ in multiphase mixtures, which is crucial for simulating the propagation of press
 waves and similar issues. As a powerful tool, IAMReX is suitable for researchers and 
 engineers who require high precision and efficiency in solving multiphase flow and 
 fluid-structure interaction problems, and it is adaptable to the ever-changing 
-computational demands and challenges.
+computational demands and challenges..
 
 # Statement of need
 
